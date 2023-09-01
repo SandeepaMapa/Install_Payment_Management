@@ -58,7 +58,7 @@ namespace krypton
                         string myObjectString = myobject.ToString();
                         textBox4.Text = myObjectString;
                         Conn.Close();
-                    }
+                    } //NEW COMMIT TEST
             }
 
             {
